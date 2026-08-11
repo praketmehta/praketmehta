@@ -6,9 +6,8 @@
 
 *Crafting scalable, user-centric applications and complex data-driven systems.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([INSERT_LINKEDIN_URL])
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:[INSERT_EMAIL_ADDRESS])
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-success?style=for-the-badge&logo=codeforces)]([INSERT_PORTFOLIO_URL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/praket-mehta-679176260/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:praket.mehta.ug23@nsut.ac.in)
 
 </div>
 
@@ -20,7 +19,7 @@
 - 🌱 I’m currently diving deeper into **system architecture**, **quantitative development**, and **scalable backend solutions**.
 - 💡 I love turning complex problems into elegant, maintainable code.
 - 💬 Ask me about **React, Node.js, MongoDB, and UI/UX engineering**.
-- 📫 How to reach me: **[Email Me](mailto:[INSERT_EMAIL_ADDRESS])**
+- 📫 How to reach me: **[Email Me](mailto:praket.mehta.ug23@nsut.ac.in)**
 
 ---
 
