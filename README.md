@@ -6,9 +6,9 @@
 
 *Crafting scalable, user-centric applications and complex data-driven systems.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-success?style=for-the-badge&logo=codeforces)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([INSERT_LINKEDIN_URL])
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:[INSERT_EMAIL_ADDRESS])
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-success?style=for-the-badge&logo=codeforces)]([INSERT_PORTFOLIO_URL])
 
 </div>
 
@@ -20,7 +20,7 @@
 - 🌱 I’m currently diving deeper into **system architecture**, **quantitative development**, and **scalable backend solutions**.
 - 💡 I love turning complex problems into elegant, maintainable code.
 - 💬 Ask me about **React, Node.js, MongoDB, and UI/UX engineering**.
-- 📫 How to reach me: **[Email Me](mailto:your.email@example.com)**
+- 📫 How to reach me: **[Email Me](mailto:[INSERT_EMAIL_ADDRESS])**
 
 ---
 
@@ -71,7 +71,13 @@
 ## 📌 Featured Projects
 
 * **[Full-Stack CRM System](https://github.com/praketmehta/CRM)** - A comprehensive MERN stack application featuring Kanban-style deal management, a ticketing system, and secure JWT authentication.
-* *(Pin your `arbitrage-tracker` or other quantitative projects here once they are ready!)*
+* **[Arbitrage Tracker](https://github.com/praketmehta/arbitrage-tracker)** - Quantitative tracking tools for arbitrage opportunities.
+* **[Algorithmic Trading Backtester](https://github.com/praketmehta/algorithmic-trading-backtester)** - Python framework for backtesting algorithmic trading strategies.
+* **[EEG Schizophrenia Classification CNN](https://github.com/praketmehta/EEG-Schizophrenia-Classification-CNN-Model)** - Deep learning CNN model for EEG classification (Control vs Schizophrenia).
+* **[EEG Schizophrenia MWVG ResNet](https://github.com/praketmehta/EEG-Schizophrenia-MWVG-ResNet)** - Advanced ResNet implementation for EEG analysis.
+* **[Airbnb Clone](https://github.com/praketmehta/AirBnb-Clone-by-Praket-Mehta)** - Full-stack web application cloning core Airbnb functionalities.
+* **[CommBank Server](https://github.com/praketmehta/CommBank-Server)** - Backend server infrastructure project.
+* **[JavaScript Getting Started](https://github.com/praketmehta/javascript-getting-started)** - My foundational JavaScript learning project.
 
 ---
 <div align="center">
